@@ -54,12 +54,4 @@ HTML, CSS
 
 - Implémenter une interface responsive
 
-## Auteur
-
-Stéphane ROBERT, développeur web en formation chez [OpenClassrooms](https://openclassrooms.com/)
-
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  
-
-[![Generic badge](https://img.shields.io/badge/STATUS-SUCCESS-green)](https://shields.io/)
-
 
